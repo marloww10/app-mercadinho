@@ -1,4 +1,4 @@
-# 🛒 App Lista de Mercado
+# 🛒 App Mercadinho
 
 Este projeto é uma aplicação mobile desenvolvida em **Flutter**, criada para facilitar a organização das compras do dia a dia e auxiliar no controle financeiro antes de chegar ao caixa.
 
@@ -9,13 +9,13 @@ O objetivo foi criar uma interface vibrante e intuitiva, onde o usuário consegu
 ## 👀 Demonstração
 
 <div style="display: flex; flex-direction: row; overflow-x: auto;">
-  <img width="300" height="800" alt="Tela Principal" src="![Home]lib\assets\image.png" />
+  <img width="250" alt="Tela Principal" src="lib/assets/image.png" />
   &nbsp;
-  <img width="300" height="800" alt="Adicionar Item" src="![Adicionar item]lib\assets\image2.png" />
+  <img width="250" alt="Adicionar Item" src="lib/assets/image2.png" />
   &nbsp;
-  <img width="300" height="800" alt="Adicionar Item" src="![Adicionar item]lib\assets\image-1.png" />
+  <img width="250" alt="Adicionar Item 2" src="lib/assets/image-1.png" />
   &nbsp;
-  <img width="300" height="800" alt="Dialog Confirmação e app completo" src="![Gif do app]lib\assets\app.gif" />
+  <img width="250" alt="Demonstração em GIF" src="lib/assets/app.gif" />
 </div>
 
 ---
